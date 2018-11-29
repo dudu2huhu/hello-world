@@ -1,0 +1,3 @@
+.infra.lync.com 
+lyncdiscover.yaoqianshu.onmicrosoft.com
+.online.lync.com
